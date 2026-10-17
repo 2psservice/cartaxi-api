@@ -4,6 +4,10 @@ Cloudflare Worker ที่เก็บเลขไมล์ ระดับน�
 
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/2psservice/cartaxi-worker)
 
+## เปิดใช้งาน
+
+แอป: **https://cartaxi-api.skgsgk.workers.dev/** (เปิดบนมือถือแล้ว "เพิ่มไปยังหน้าจอโฮม" ได้)
+
 ## ติดตั้งด้วยปุ่มเดียว
 
 1. กดปุ่ม **Deploy to Cloudflare** ด้านบน แล้วเข้าสู่ระบบ Cloudflare และ GitHub
